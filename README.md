@@ -2,7 +2,7 @@
 ### Description
 This project is created on Watson Studio under IBM Data Science Course for Data Science and AI
 
-__Python libraries used :__
+### Python libraries used :
 1. Pandas
 2. Numpy
 3. Matplotlib
